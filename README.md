@@ -16,4 +16,4 @@ and [matplotlib](http://matplotlib.org).
 
 
 Pls note: sliders (jupyter notebook widgets) as above in the screenshot are only visible if
-jupyter notebook viewer runs with jupyter nbextension enabled.  
+jupyter notebook viewer runs with enabled [widgetsnbextension](https://github.com/jupyter-widgets/ipywidgets/issues/541#issuecomment-215419489).  
