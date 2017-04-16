@@ -11,4 +11,9 @@ of weights and biases is performed using
 [jupyter notebook](http://jupyter.org/) 
 and [matplotlib](http://matplotlib.org).
 
+
 ![visualization](2dims2ALine_Vis_Jupyter_Matplot.png "sample script visualization")
+
+
+Sliders (jupyter notebook widgets) as above in the screenshot are only visible if
+jupyter notebook viewer runs with jupyter nbextension enabled.  
